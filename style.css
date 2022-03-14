@@ -1,0 +1,17 @@
+@import url("https://fonts.googleapis.com/css2?family=Cairo:wght@200&family=Noto+Kufi+Arabic:wght@300&display=swap");
+.text-color {
+  color: rgb(238, 240, 239);
+  background-color: silver;
+}
+
+#color {
+  color: rgb(0, 0, 0);
+}
+
+h1 {
+  font-family: "Noto Kufi Arabic", sans-serif;
+}
+
+p {
+  font-weight: bolder;
+}
